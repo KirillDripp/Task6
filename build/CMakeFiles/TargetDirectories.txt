@@ -1,0 +1,4 @@
+C:/Users/Admin/Desktop/Task6/build/CMakeFiles/bst_test.dir
+C:/Users/Admin/Desktop/Task6/build/CMakeFiles/test.dir
+C:/Users/Admin/Desktop/Task6/build/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/Task6/build/CMakeFiles/rebuild_cache.dir
